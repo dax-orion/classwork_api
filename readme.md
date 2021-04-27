@@ -2,7 +2,7 @@
 
 A simple website for a company offering cooking classes. Implements simple CRUD (create, read, update, delete) functionality for subscriber, user, and course entities.
 
-As of the classwork on APIs the page now includes a simple modal that shows an example of AJAX APIs on a page.
+As of the classwork on APIs the page now includes a simple modal that shows an example of AJAX calling an API and displaying the data on a page.
 
 Implements simple login and logout using passport.js.
 
